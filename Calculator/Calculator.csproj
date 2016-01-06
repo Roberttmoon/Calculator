@@ -40,7 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IncomingString.cs" />
+    <Compile Include="IDoOperations.cs" />
+    <Compile Include="MathClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StringParcer.cs" />
   </ItemGroup>
