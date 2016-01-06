@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{734448A8-DB73-46B7-A678-6CE8B540F3B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{8FBF4BA4-4F50-4E5D-ABC0-E4E84A729A63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{734448A8-DB73-46B7-A678-6CE8B540F3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{734448A8-DB73-46B7-A678-6CE8B540F3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{734448A8-DB73-46B7-A678-6CE8B540F3B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FBF4BA4-4F50-4E5D-ABC0-E4E84A729A63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBF4BA4-4F50-4E5D-ABC0-E4E84A729A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBF4BA4-4F50-4E5D-ABC0-E4E84A729A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBF4BA4-4F50-4E5D-ABC0-E4E84A729A63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

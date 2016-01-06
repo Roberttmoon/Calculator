@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Calculator
 {
-    public class Class1
+    class StringParcer
     {
+
+        public void findNumber()
+        {
+            
+        }
     }
 }
